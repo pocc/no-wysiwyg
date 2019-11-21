@@ -9,8 +9,7 @@
   "description": "Disables Slack Wysiwyg 'Feature'. Based on Kevin Fahy's script at https://github.com/kfahy/slack-disable-wysiwyg-bookmarklet.",
   "manifest_version": 2,
   "author": "Ross Jacobs",
-  "name": "No Slack Wysiwyg",
+  "name": "Disable Slack Wysiwyg",
   "version": "0.1.0",
-  "license": "Apache 2.0",
   "web_accessible_resources": ["index.js"]
 }

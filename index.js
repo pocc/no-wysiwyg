@@ -1,1 +1,0 @@
-setTimeout(()=>{const s=window.slackDebug[window.slackDebug.activeTeamId].redux,{wysiwyg_composer:o,wysiwyg_composer_ios:a,wysiwyg_composer_webapp:t,...i}=s.getState().experiments;s.dispatch({type:"[19] Bulk add experiment assignments to redux",payload:i})}, 5000)
