@@ -6,6 +6,11 @@
       "run_at": "document_idle"
     }
   ],
+  "icons": {
+    "16": "img/icon16.png",
+    "48": "img/icon48.png",
+    "128": "img/icon128.png"
+  },
   "description": "Disables Slack Wysiwyg 'Feature'. Based on Kevin Fahy's script at https://github.com/kfahy/slack-disable-wysiwyg-bookmarklet.",
   "manifest_version": 2,
   "author": "Ross Jacobs",
