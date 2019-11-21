@@ -2,7 +2,7 @@
 
 Disables Slack's new wysiwyg text editor. 
 
-<img src="src/img/screenshot.png" width=66% />
+<img src="screenshot.png" width=66% />
 
 Slack used to have the ability to use markdown in their text. They changed this permanently for all users without the ability to go back. Per Arthur O’Dwyer on his blog entry that was posted on [Hacker News](https://quuxplusone.github.io/blog/2019/11/20/slack-rich-text-box/) on 2019-11-20):
 

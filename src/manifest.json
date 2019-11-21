@@ -15,6 +15,6 @@
   "manifest_version": 2,
   "author": "Ross Jacobs",
   "name": "Disable Slack Wysiwyg",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "web_accessible_resources": ["index.js"]
 }

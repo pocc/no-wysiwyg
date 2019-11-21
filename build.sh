@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 # Build the Chrome extension and Firefox Addon
-zip  -FS -r -j build/disable_wysiwyg.zip src/*
+cd src
+zip -FS -X -r ../build/disable_wysiwyg.zip img/*.png *.js*
+cd ..
