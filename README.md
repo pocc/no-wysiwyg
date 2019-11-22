@@ -17,7 +17,7 @@ Inspired by the 2 Hacker News articles today: https://news.ycombinator.com/item?
 Official extensions have been registered:
 
 * Firefox: https://addons.mozilla.org/en-US/firefox/addon/disable-slack-wysiwyg/
-* Chrome: Pending Review
+* Chrome: https://chrome.google.com/webstore/detail/jenojkbpialbgpbgokiakifhpmoponjn
 
 To install locally to your machine, check out [releases](https://github.com/pocc/no-wysiwyg/releases).
 
